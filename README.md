@@ -1,5 +1,6 @@
+#Credit-Card-Financial-Dashboard
 
-#Credit_Card_Financial_Dashboard
+
 This project aims to develop a comprehensive credit card weekly dashboard using Power BI and SQL, providing real-time insights into key performance metrics and trends. The dashboard allows stakeholders to effectively monitor and analyze credit card operations, aiding in data-driven decision-making.
 
 🚀 Project Objective
